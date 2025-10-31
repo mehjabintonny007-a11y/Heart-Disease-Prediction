@@ -61,8 +61,6 @@ ________________________________________
 
 •	Pandas
 
-•	Matplotlib / Seaborn
-
 •	Scikit-learn
 
 •	Jupyter Notebook
